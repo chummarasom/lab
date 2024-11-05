@@ -1,0 +1,23 @@
+CONSTANT PROPAGATION
+Enter the maximum number of expressions: 4
+Enter the input:
+= 3 - a
++ a b t1
++ a c t2
++ t1 t2 t3
+
+
+
+
+SHIFT REDUCE PARSER
+Enter the input string: id+id*id
+
+
+
+LEXICAL ANALYZER
+input.txt:
+void main(){
+    a=b=10;
+}
+
+
